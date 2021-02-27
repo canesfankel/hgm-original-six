@@ -1,0 +1,150 @@
+{
+  "startingSeason": 1943,
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "Boston",
+      "name": "Bruins",
+      "abbrev": "BOS",
+      "pop": 0.8,
+      "stadiumCapacity": 13909,
+      "imgURL": "https://cdn.discordapp.com/attachments/815322809319948330/815323361999060992/boston6.png",
+      "colors": [
+        "#000000",
+        "#FFB81C",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Chicago",
+      "name": "Black Hawks",
+      "abbrev": "CHI",
+      "pop": 3.4,
+      "stadiumCapacity": 16000,
+      "imgURL": "https://cdn.discordapp.com/attachments/815322809319948330/815323545163923497/chicago6.png",
+      "colors": [
+        "#CF0A2C",
+        "#000000",
+        "#CF0A2C"
+      ]
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Detroit",
+      "name": "Red Wings",
+      "abbrev": "DET",
+      "pop": 1.4,
+      "stadiumCapacity": 15000,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650255959392306/1200px-Detroit_Red_Wings_logo.png",
+      "colors": [
+        "#CE1126",
+        "#CE1126",
+        "#CE1126"
+      ]
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 0,
+      "region": "Montreal",
+      "name": "Canadiens",
+      "abbrev": "MON",
+      "pop": 3.3,
+      "stadiumCapacity": 13551,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
+      "colors": [
+        "#FFFFFF",
+        "#AF1E2D",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 0,
+      "region": "New York",
+      "name": "Rangers",
+      "abbrev": "NYR",
+      "pop": 12.8,
+      "stadiumCapacity": 15925,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810651609418825777/1200px-New_York_Rangers.png",
+      "colors": [
+        "#0038A8",
+        "#0038A8",
+        "#0038A8"
+      ]
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 0,
+      "region": "Toronto",
+      "name": "Maple Leafs",
+      "abbrev": "TOR",
+      "pop": 0.6,
+      "stadiumCapacity": 12586,
+      "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810685536045629460/1200px-Toronto_Maple_Leafs_2016_logo.png",
+      "colors": [
+        "#002366",
+        "#002366",
+        "#002366"
+      ]
+    }
+  ],
+  "gameAttributes": [
+    {
+      "key": "confs",
+      "value": [
+        {
+          "cid": 0,
+          "name": "National Hockey League"
+        }
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+        {
+          "did": 0,
+          "cid": 0,
+          "name": ""
+        }
+      ]
+    },
+    {
+      "key": "minPayroll",
+      "value": 2000
+    },
+    {
+      "key": "salaryCap",
+      "value": 5000
+    },
+    {
+      "key": "maxContract",
+      "value": 850
+    },
+    {
+      "key": "minContract",
+      "value": 100
+    },
+    {
+      "key": "luxuryPayroll",
+      "value": 7000
+    },
+    {
+      "key": "luxuryTax",
+      "value": 1
+    },
+    {
+      "key": "numGames",
+      "value": 50
+    }
+  ]
+}
