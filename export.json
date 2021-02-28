@@ -29,8 +29,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/815322809319948330/815323545163923497/chicago6.png",
       "colors": [
         "#CF0A2C",
-        "#000000",
-        "#CF0A2C"
+        "#CF0A2C",
+        "#000000"
       ]
     },
     {
@@ -61,8 +61,8 @@
       "imgURL": "https://cdn.discordapp.com/attachments/810647412002652172/810650509576372224/1200px-Montreal_Canadiens.png",
       "colors": [
         "#FFFFFF",
-        "#AF1E2D",
-        "#FFFFFF"
+        "#FFFFFF",
+        "#AF1E2D"
       ]
     },
     {
@@ -94,7 +94,7 @@
       "colors": [
         "#002366",
         "#002366",
-        "#002366"
+        "#FFFFFF"
       ]
     }
   ],
@@ -140,11 +140,19 @@
     },
     {
       "key": "luxuryTax",
-      "value": 1
+      "value": 1.5
     },
     {
       "key": "numGames",
       "value": 50
+    },
+    {
+      "key": "pace",
+      "value": 93
+    },
+    {
+      "key": "injuryRate",
+      "value": 0.000082
     }
   ]
 }
